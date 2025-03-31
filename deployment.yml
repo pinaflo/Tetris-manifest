@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: pinaflocode/tetrisv2:latest
+        image: pinaflocode/netflix
         ports:
         - containerPort: 3000   # Use port 3000
 
